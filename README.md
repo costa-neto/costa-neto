@@ -2,6 +2,16 @@
 
 My name is Neto Costa, and I'm a software developer who loves to learn new technologies and work on different project ideas.
 
+
+<div>
+<a href="https://github.com/costa-neto">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costa-neto&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=costa-neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+<br /> <br />
+
 - 📜 I’ve some experience with...
   
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
@@ -23,11 +33,5 @@ My name is Neto Costa, and I'm a software developer who loves to learn new techn
 - ⚡ Fun fact:
     I've a dog named after a brasilian candy.
 
-
-<div>
-<a href="https://github.com/costa-neto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costa-neto&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=costa-neto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 

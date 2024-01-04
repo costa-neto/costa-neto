@@ -19,10 +19,6 @@ My name is Neto Costa, and I'm a software developer who loves to learn new techn
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
 
-- 🌱 I’m currently learning ...
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img color="blue" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/>
-
 - 📫 How to reach me:
 <div>
   <a href = "mailto:neto_costa_1809@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
